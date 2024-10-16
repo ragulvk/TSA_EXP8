@@ -1,5 +1,6 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
-### Date: 
+### Name: Ragul VK
+### Register No: 212221240043
 
 
 ### AIM:
