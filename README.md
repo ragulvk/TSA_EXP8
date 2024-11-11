@@ -1,8 +1,8 @@
 
 # Ex.No: 08     MOVING AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 ### Date: 
-### Developed by: Syed Abdul Wasih H 
-### Reg no: 212221240057
+### Developed by: RAGUL VK
+### Reg no: 212221240043
 
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
